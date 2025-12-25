@@ -1,0 +1,130 @@
+--- Consultation 1 ---
+day: 1
+consultation: 2
+presenting_complaint: I have sore, red skin
+note: 4/7 hx of dry itchy skin, mainly on chest and back. Skin is also sore and cracked. No bleeding or discharge. No spread elsewhere. Not aware of any triggers. Used steroid cream OTC last night with minimal effect. Pt has also tried antihistamines. 
+Systemically well otherwise - no fevers, no vomiting, no SOB/cough. No bowel sx. 
+
+PMH: Eczema, Asthma 
+DHx: Nil regular
+NKDA
+SH: lives with flatmates, works as a pharmaceutical manager. Non-smoker, social EtOH. 
+ICE: pt thinks might be related to eczema. No concerns
+
+Imp: flare up of eczema
+
+Plan:
+1.	Steroid cream - Betnovate BD
+2.	Emollients - cetraben - use up to QDS
+3.	Trial antihistamines
+4.	Keep trigger diary 
+5.	Review in 10-14d if symptoms no better, or earlier if any concerns/worsening sx
+
+highlights: ["4/7 hx of dry itchy skin", "Eczema", "Asthma", "Steroid cream", "Emmolients"]
+_source_file: day1_consultation02.json
+
+--- Consultation 2 ---
+day: 2
+consultation: 2
+presenting_complaint: I have a strange swelling on my elbow
+note: Hx: 1 week history of spontaneous elbow swelling left. Not painful. No trauma. 
+No FH of rheumatological disease- NB pt says he has been old he has OA previously by doctors- ? need to confirm this
+Works in a desk job
+Not happened before
+Otherwise well- 
+PMHx: nil of note
+FH: nil of note
+DH: not on any medication, allergic to peanuts
+SH: exercises regularly, active
+Ex: looks well, not in pain. Mild erythema and minimal swelling (if any) around olecranon process left elbow
+Imp: possible bursitis
+Plan: for NSAIDs- usual advice re SE
+For rheum bloods: esr, crp, fbc, rheum factor and urate
+Review thereafter in person/ via video
+To contact us back in interim if any deterioration/concerns- pt warned re symptoms of septic arthritis
+
+highlights: ["elbow swelling", "No trauma", "allergic to peanuts", "looks well", "possible bursitis", "for NSAIDs", "bloods"]
+_source_file: day2_consultation02.json
+
+--- Consultation 3 ---
+day: 3
+consultation: 2
+presenting_complaint: feeling hot and having severe headache
+note: You are having a headache for the past 4 days 
+You have been taking paracetamol and ibuprofen but no relief 
+You have just returned from Thailand a week ago and a friend of your is also unwell 
+You have had mosquito bites 
+You have a rash all over your body but this disappears when a glass is placed ( blanching)
+There is no pain while you move your neck 
+There is no pain while looking at the light 
+There is no weakness of the muscles 
+There is no pins and needles 
+You do not have vomiting 
+There is no no cough, cold or ear pain
+There is no bleeding spots over the skin 
+You have some generalized muscle aches 
+Past medical history None
+No allergies 
+Plan : you have been advised to book an urgent appointment to see a doctor in the next few hours
+If this is not possible you will need to go to A & E . WE will need to r/o more serious conditions like malaria, Dengue and meningitis 
+
+highlights: ["headache", "mosquito bites", "No allergies"]
+_source_file: day3_consultation02.json
+
+--- Consultation 4 ---
+day: 5
+consultation: 2
+presenting_complaint: It hurts when I pee
+note: PC: Dysuria
+HPC: 6/7 hx dysuria, burning stinging sensation when PUs. No problem with actually passing urine. Strong odour. E&D normally. No new PV discharge. No back/loin pain. Not feverish but not checked temp.No obvious trigger, no hx dehydration/frequent SI. 
+No PHx urine infections/similar sx. 
+No recent change in BH/blood in stool.
+PMH: IBS
+FH: Nil
+DH: Mebeverine 200mg TDS. NKDA.
+
+SH: Lives with friends. Works as support worker. Non smoker. Drinks 1 unit/week.
+Imp: Likely UTI.
+Plan: Nitrofurantoin 3/7 course. 
+Advised patient to contact us if fever/back pain/persistent symptoms or if recurrent episodes of similar symptoms occurs. 
+
+highlights: ["dysuria", "Strong odour", "No back/loin pain", "Not feverish"]
+_source_file: day5_consultation02.json
+
+--- Consultation 5 ---
+day: 4
+consultation: 2
+presenting_complaint: I'm feeling hot and have severe headaches
+note: PC. Headaches, loss of appetite, tingling, feel hot, palpitations,  acute onset, at random times of the day while at work (lawyer)
+
+HPC: 
+PC started when started new job (lawer, high stress, works in front of a computer)
+Headaches:
+-	No pre aura, 
+-	Frontal
+-	No radiation
+-	Some nausea  no vomiting,
+-	No pmhx of headache.
+
+Reduced appetite, with unintentional weight loss, loss of 5lbs 
+Pins and needles in both arms, no radiation to legs, maintains motor and sense, no loss of function
+Fevers with headaches 
+Palpitations with mild SOBOE and SOBAR.
+
+
+Symptoms occur at random times of the day while at work, with no pre-symptoms, sometimes together, sometimes individually.
+
+PMHx , hypothyroid. 
+
+DHx allergies - nil
+Thyroxine. 
+
+SHx lawer , stressful job.
+
+DDx ??hypothyroid?
+
+Plans : requires further examination and blood tests.
+
+highlights: [""]
+_source_file: day4_consultation02.json
+

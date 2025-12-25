@@ -5,7 +5,7 @@ From: nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
     Author Marc Cummings
     Version 1.0
     Model MedGemma-27B
-    Type TextOnly
+    Type Multimodal
 
 %environment
     export MODEL_PATH=/opt/models/medgemma-27b-it

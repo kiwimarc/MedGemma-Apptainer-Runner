@@ -1,0 +1,101 @@
+day,consultation,presenting_complaint,note,highlights,_source_file
+2,3,I can't hear very well and my face is a bit numb,"Hx: 1 week history of left side difficulty hearing and facial numbness
+No dysphagia, dysarthria, no unilateral weakness/numbness in the rest of the body, no visual disturbances 
+No ear pain, ear discharge, fever, itchiness or cotton bud use.
+Slight tinnitus at times in this period- not continuous
+Numbness and difficulty hearing present now 
+Pmhx: labyrinthitis, heart burn, nasal polyps
+DH: Rennies PRN OTC, nasal spray PRN (pt not sure of name)
+Allergies: latex allergy
+No FH of note
+Ex: no facial asymmetry, looks well, normal facial expressions and movements
+Imp: ? Bell's Palsy- need to rule out any other focal neurology
+Plan: for face to face review today for neurological examination and ear examination
+Pt to ring support line for GP F2f slot
+Pt understands and is happy with plan
+","['difficulty hearing', 'facial numbness', 'tinnitus', 'latex allergy', 'no facial assymetry']",day2_consultation03.json
+3,3,I don't have much appetite or energy lately,"History : having lack of energy for the past 3 months 
+You are also having loss of appetite 
+You are lacking motivation 
+You are complaining of breathlessness and some times associated with palpitations 
+There is no chest pain 
+You are not depressed or stressed 
+Your bowels are normal 
+You feel nauseous most of the time 
+There is no vomiting 
+You are also experiencing some weight loss in the past 6 months about a stone 
+There is no history of acid reflux 
+Past medical history: you suffer from underactive thyroid 
+Medications: you have not been using the thyroxine for a while since you changed practice . You do not remember the last time you had your last set of bloods
+Plan: you have been advised to contact support to help you to organize your blood test. This will look at aneamia, thyoids, liver, kidney and vitamin levels 
+You will need to book in for another appointment after you receive a text message from Babylon. 
+Safety netting: If you develop chest pain with the palpitations, change in bowel habits you will need to contact us urgently
+","['loss of appetite', 'breathlessness', 'weight loss in the past 6 months about a stone', 'underactive thyroid']",day3_consultation03.json
+5,3,I'm feeling very anxious,"PC: Anxiety symptoms
+HPC: 2/12 hx feeling anxious all the time. Seems to have started when started new job. Different industry, pressures from boss. Dreads work every morning. Initial insomnia ++ 3hrs + EMW. Often has only 3-4 hrs sleep. Tired in the day. Low energy. Eating pattern normal but more chocolate. Anhedonia in work and outside. Previously enjoyed running, tennis, socialising. Now still sees friends but often avoids. 
+Associated palpitations, only started with anxiety sx. Can feel irregular and chest discomfort. Rapid beat, lasts approx 2-10 mins.
+No panic attacks, not missed work.
+Other anxiety provoking things include public transport.
+Low mood most of the time but denies any suicidal ideation. 
+
+PMH: Nil Past Psych hx/significant anxiety.
+FHx: Mum has had depression.
+
+SH: Lives with parents. Supportive. Drinks Fri/sat, not sure of amount but sometimes overdoes it. Smokes occ, no illicit drugs.
+
+Imp: Work related anxiety. Insomnia.
+
+Plan: Advised self referral to NHS talking therapies. In meantime advised to access online CBT: attached info.
+If anxiety/mood symptoms worse or unable to cope with work to contact us for further discussion.
+Advised blood test as initial investigation for palpitations. Patient advised to book via support team. 
+","['Anxiety symptoms', 'insomnia', 'Associated palpitations', 'Low mood most of the time but denies any suicidal ideation', 'Work related anxiety']",day5_consultation03.json
+1,3,I have terrible headache,"Headache on left side. Started few hours ago, gradual onset. Throbbing in nature. Nil radiating. 
+Had visual aura before onset of headaches - zigzag lines in field of vision. Also associated photophobia and blurred vision. Feels nauseous and has vomited twice today. Also reports some neck pain. Nil neck stiffness. 
+No speech disturbances
+No limb weakness or numbness
+No coordination/balance issues
+No recent head injury 
+No fever
+No rashes 
+
+Similar episode 2/52 ago - resolved with analgesia. Pt worried about brain Ca. 
+
+PMH: nil
+DH: microgynon 
+NKDA
+FH: mother - migraine 
+SH: lives alone, works in fashion industry. Feeling stressed ++. Nil mood sx. Nil smoking/etOH hx
+
+Imp: migraine
+
+Plan:
+1.	Change COCP to POP
+2.	Keep headache diary 
+3.	Regular paracetamol/NSAIDs
+4.	Review in 1w to discuss prophylactic Rx, or earlier if worsening sx (headaches, vomiting, vision sx) or any concerns
+","['Headache', 'Throbbing', 'visual aura', 'photophobia', 'microgynon', 'migraine']",day1_consultation03.json
+4,3,I'm feeling short of breath,"PC SOBAR, c section 2-3 weeks ago
+
+HPC;
+SOBAR while watching tv, acute onset.  Cough 1/7 previously, unproductive.
+No fever, no chills, non positional.
+No chest pain, no pain on inspiration
+
+C section 2-3 weeks ago. No complications, baby well.  No symptoms.
+No of blood thinners.
+
+
+PMHx nill
+Dhx. allergies to ibuprofen 
+
+
+Oex HR via telephone roughly 120bpm . tachy, regular
+
+
+FHx,
+Mother hx of clots on legs.
+
+DDx: PE
+
+Plan : Further examination and investigation in acute setting.
+",[''],day4_consultation03.json

@@ -1,0 +1,71 @@
+day,consultation,presenting_complaint,note,highlights,_source_file
+1,4,"I don't feel well, I have a cough and runny nose","4/7 hx of generally unwell, mainly sore throat, runny nose, fatigue, myalgia and general joint pain. Sore throat is improving. Also has nasal congestion. Now developed a cough -mainly dry, constant. Night sweats for the past 4/7. Initially had fever, but now settling with paracetamol/ibuprofen. 
+No chest pain. Feels more SOB on exertion. 
+Associated headaches - generalized, intermittent. No visual sx/photophobia. No nausea/vomiting. No bowel or urinary sx. Drinking fluids, reduced appetite. No rashes
+
+PMH: Nil 
+DH: nil 
+NKDA
+FH: Grandmother - type 2 diabetes
+SH: lives alone, works as an accountant. Occasional smoker/etOH. Finding work slightly stressful. No mood sx. 
+
+Imp: viral URTI/influenza 
+
+Plan:
+1.	Conservative mx - rest, push fluids, regular paracetamol/ibuprofen, monitor temp
+2.	Review in 5-7d INB
+3.	Discussed red flag sx (SOB, chest pain, fevers)- if present, for urgent review with Dr 
+","['sore throat', 'fatigue', 'myalgia', 'cough', 'viral URTI/influenza']",day1_consultation04.json
+2,4,I feel breathless,"1 day hx of SOB, slight pleuritic pain (right side), feeling warm (not measured temperature), 2 episodes haemoptysis and palpitations.
+No recent long haul flights
+No FH or PMHx of DVT/Pes
+Has been feeling TATT/ fatigue for the last few weeks preceding these symptoms
+Pmhx: SLE
+DH: on methotrexate
+No allergies
+SH lives alone, has cat, works in an office
+Ex: pulse around 66, normal CRT, throat inspection normal, pt cant feel any LNs in neck, not SOB, looks well
+Imp: probable LRTI, possibly secondary to immunosuppression
+Plan: needs F2f gp assessment today to listen to chest and check BP/pulse/ temp
+May also need blood tests to check immune status in view of methotrexate
+",[''],day2_consultation04.json
+5,4,Lower stomach pain,"PC: Abdominal pain. HPC: Periumbilical pain, constant getting worse. Severity 8/10. Has had some light PV bleeding. No dysuria/frequency but some difficulty PUing. BO daily, normal stool. Constipation for a week last week. LMP 2 weeks ago. No other PV discharge. E&D ok. Not checked temp. Does not feel feverish. Not feeling faint. No DIB/shoulder tip pain. Nausea. No vomiting/diarrhoea. Last foreign travel 1 yr ago. 
+Implanon 1 yr ago. 
+PMH: Nil significant
+DH: Nil. Allergic to amoxicillin
+SH; Teacher, has been able to work as usual. Lives with parents. No smoker/alcohol/drugs.
+Imp: Abdominal pain ? cause. Needs to check preg test today and contact us immediately if pos. Urgent examination booked with Dr. To get in touch before if pain worse/new sx. 
+","['Periumbilical pain', 'light PV bleeding', 'difficulty PUing', 'LMP 2 weeks ago']",day5_consultation04.json
+4,4,I'm wheezy,"PC : sobar pmhx of childhood asthma and hayfever.
+
+HPC. 2 day history of wheezing and SOBAR, after cleaning dusty environment
+No chest pain. No nausea,no vomiting, no problems e+d
+SOB worse at night
+Now having problems speaking in full sentences
+
+
+PMH: As above.
+
+Dhx : allergy nils no regular medications. 
+
+DDx : acute exacerbation of asthma, ?? allergy
+
+Plan : antihistamine and further examination and investigation. 
+",[''],day4_consultation04.json
+3,4,my chest feels very tight,"History: Having breathlessness for 3-4 days 
+Having to use the blue inhalers twice a day 
+You normally use it only as and when 
+You are also on the clenil and taking it everyday 2 puff twice a day 
+You are having a cough but no sputum 
+There is some wheezing 
+Medical history : you had asthma since your childhood
+You suffer from eczema . your last asthma attack was 3 years ago 
+You have never needed anitibiotics or steroids 
+You have never been hospitalized because of your asthma 
+Your normal peak flow reading is 380
+You don't have any allergies 
+Medication : you also use hydrocortisone and cetraban for eczema
+Plan : you have been advised to increase you brown inhaler to 4 puffs twice daily and can use the blue inhalers upto every 2-4 hrs 
+You will need your chest reviewed by a doctor in the next 2 days 
+If you were to get increasingly breathless with the treatment that has been advised and not seen a doctor yet, please go to A & E
+","['breathlessness', 'asthma', 'eczema', 'peak flow reading is 380']",day3_consultation04.json

@@ -1,0 +1,87 @@
+day,consultation,presenting_complaint,note,highlights,_source_file
+5,5,My tummy hurts,"PC: Abdo pain
+HPC: 2/7 hx lower abdominal pain, central location. Has noticed some blood in the urine. Has check temp - 37. No back pain. Feels sweaty. More thirsty than normal, drinking well. No dysuria/freq. Constipated last week, now BO normally. No blood in stool. Last BO 2 hrs ago. No N&V, no dyspepsia. 
+
+PMH : Nil 
+DH: Nil. Allergic to amoxicillin.
+FMH: Mum had breast cancer, now in remission. 
+SH: Lives with parents. Non smoker. No drugs. Drinks 1 beer x 4/week.
+
+Imp: ? UTI.
+Plan: Advised 3/7 course Abx. Will pick up from pharmacy. To start asap. If develops temperature/persistent/worsening pain to call back or if recurrent similar sx. 
+","['lower abdominal pain', 'blood in the urine', 'temp - 37', 'No back pain', 'thirsty']",day5_consultation05.json
+2,5,My asthma is not responding to my inhalers,"(the above consultation reason doesn't correlate with the patient's presentation)
+Hx: episodes of unilateral right hand numbness/ pins and needles, with some right leg weakness and noticeable gait disturbances, ongoing for 1.5 months
+occurring with increasing frequency- initially once a week, now more often, occurring daily
+ symptoms not present now
+no dysphagia, no dysphasia
+no Pmhx of CVA/TIA
+Father had CVA- appears to have had carotid endarterectomy
+Non smoker, normal blood tests for diabetes/ cholesterol when checked a few years ago
+PMHx and FH: otherwise nil of note
+DH PT IS TAKING Aspirin daily on his own accord due to his FH
+SH: pt is a medical doctor, plastic surgeon, lives with wife
+Imp: TIAs- despite young age (need to exclude any systemic disease, eg antiphospholipid syndrome, that could be cause)
+Plan: needs to be seen urgently in TIA clinic- will fax referral now. Pt to contact them via PALS/ clinic no to ensure f/u
+If any prolonged symptoms occur- to attend A/E
+",[''],day2_consultation05.json
+4,5,I've had bad diarrhea for 3 days,"PC; diarrhea and central abdominal pain for 3/7. Now unable to go to work due to frequency of bowel movements. No fevers
+
+HPC:
+Diarrhea +++ 5-6 per day (more) only fluid no blood, feels as if there incomplete evacuation.
+
+℅ abdominal pain for since presentation, no radiation, mild to moderate tenderness, and cramping, E+D'ing causing nausea. Feeling of “gas”
+
+Some vomiting, now unable to tolerate fluids and solids.  Ate this morning but vomited immediately. Feels and looks dehydrated.
+
+No problems with breathing, no chest pain, no headache. 
+
+DHx : NKDA. 
+
+FHx : father has history of stomach Ca.
+
+DDx : gastroenteritis
+
+Plan: fluids, paracetamol, advised if symptoms do not improve to visit the gp surgery. 
+",[''],day4_consultation05.json
+1,5,Lower abdominal pain,"2/7 ago developed lower abdo pain/suprapubic pain, gradual onset, burning pain, constant, progressively worsening
+No bowel sx. 
+Urinary sx - noticed some pink coloured urine, no frank haematuria, nil dysuria.  
+Some nausea, no vomiting
+Feeling hot and sweaty
+Currently sexually active with regular partner. Last STD 6/12 ago. Unprotected SI 2/7 ago. 
+LMP 2/52 ago 
+
+No chest pain/SOB/palpitations
+No headches/visual sx
+
+PMH: nil
+PSH: nil 
+DH: implanon , otherwise nil
+FH: nil 
+SH: roomshare with 2 flatmates, works as an accountant. Nil smoking, social EtOH 
+
+Imp: ?UTI. also need to exclude pregnancy 
+
+Plan:
+1.	Pregnancy test
+2.	Urine dip and MSU
+3.	Rx empirically with Abx for UTI
+4.	Regular paracetamol for pain 
+5.	Review in 24-48 hours if sx not improving, or earlier if worsening sx (fever, abdo pain, vomiting)
+","['abdo pain/suprapubic pain', 'burning', 'Feeling hot and sweaty', 'UTI', 'Abx']",day1_consultation05.json
+3,5,I've been feeling dizzy,"History : having dizziness for the past few hours 
+You had sometime similar a month ago but only lasted 10 minutes 
+You feel as though you are in a boat 
+There is no recent viral illness 
+There is a buzzing noise in your ears 
+There is no hearing problems 
+No ear discharge or ear pain 
+You feel nauseous but not been sick 
+There is no weakness of the arms and legs 
+Past medical history #
+You have premature ovarian failure and take HRT
+There is no allergies 
+Plan we will prescribe some stemitil for symptom relief . Most likely disgnosis is labrynthitis
+If you will need to book a pace to face appointment to have your ears checked . If you develop any weakness of arms and legs, vomiting . Please go to A & E
+","['dizziness', 'premature ovarian failure', 'HRT', 'labrynthitis']",day3_consultation05.json
