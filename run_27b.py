@@ -10,6 +10,16 @@ MODEL_FILE = "medgemma-27b.sif"
 MODEL_PATH = os.environ.get("MODEL_PATH", "/opt/models/medgemma-27b-it")
 HAS_IMAGES = False
 
+# ---- Progress logging -------------------------------------------
+
+def log(msg):
+    print(f"[medgemma] {msg}", file=sys.stderr)
+
+def debug(msg):
+    if args.debug:
+        print(f"[medgemma][debug] {msg}", file=sys.stderr)
+
+
 # ---- ARGUMENTS PARSING AND HELP MENU ------------------------
 def build_help_text():
     return f"""
